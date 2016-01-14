@@ -1,7 +1,7 @@
 <?php
 /**
  * 闲置市场默认展示页面
- * by mall.wrtx.cn
+ * by localhost/shopping
  */
 defined('InWrzcNet') or exit('Access Invalid!');
 class fleaControl extends BaseHomeControl{

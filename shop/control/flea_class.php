@@ -1,7 +1,7 @@
 <?php
 /**
  * 前台闲置物品搜索页面
- * by mall.wrtx.cn
+ * by localhost/shopping
  */
 defined('InWrzcNet') or exit('Access Invalid!');
 

@@ -28,7 +28,7 @@ class goodsControl extends BaseGoodsControl {
         if (empty($goods_info)) {
             showMessage(L('goods_index_no_goods'), '', 'html', 'error');
         }
-		// by mall.wrtx.cn
+		// by localhost/shopping
 		$rs = $model_goods->getGoodsList(array('goods_commonid'=>$goods_info['goods_commonid']));
 		$count = 0;
 		foreach($rs as $v){

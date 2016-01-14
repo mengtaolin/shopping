@@ -3,7 +3,7 @@
  * 队列
  *
  *
- * 计划任务触发 by mall.wrtx.cn
+ * 计划任务触发 by localhost/shopping
  */
 
 

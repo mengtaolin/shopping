@@ -3,7 +3,7 @@
  * 友情连接展示页面
  *
  *
- * 多用户商城 mall.wrtx.cn
+ * 多用户商城 localhost/shopping
  *
  */
 defined('InWrzcNet') or exit('Access Invalid!');

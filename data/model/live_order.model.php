@@ -3,7 +3,7 @@
  * 线下抢购订单管理
  *
  * 
- *by mall.wrtx.cn 多用户商城 运营版
+ *by localhost/shopping 多用户商城 运营版
  */
 defined('InWrzcNet') or exit('Access Invalid!');
 class live_orderModel extends Model {

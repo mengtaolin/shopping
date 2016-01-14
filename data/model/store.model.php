@@ -286,7 +286,7 @@ class storeModel extends Model {
         }
         return $hot_collect_list;
     }
-	//by mall.wrtx.cn 店铺列表新增项
+	//by localhost/shopping 店铺列表新增项
 /**
      * 获取店铺列表页附加信息
      *

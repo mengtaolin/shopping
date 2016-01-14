@@ -5,7 +5,7 @@
  * 
  *
  *
- * by mall.wrtx.cn
+ * by localhost/shopping
  */
 
 defined('InWrzcNet') or exit('Access Invalid!');

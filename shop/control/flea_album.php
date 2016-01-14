@@ -1,7 +1,7 @@
 <?php
 /**
  * 闲置图片上传操作
- * by mall.wrtx.cn
+ * by localhost/shopping
  */
 defined('InWrzcNet') or exit('Access Invalid!');
 class flea_albumControl extends BaseMemberControl {

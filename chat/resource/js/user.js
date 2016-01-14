@@ -1,4 +1,4 @@
-// by mall.wrtx.cn 调出图片
+// by localhost/shopping 调出图片
 	var interval = 1;//断开后计时
 	var new_interval = 1;//消息提醒计时
 	var connect = 0;//连接状态

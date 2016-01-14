@@ -18,7 +18,7 @@
       'adv_id' => '936',
       'ap_id' => '1047',
       'adv_title' => '顶部广告',
-      'adv_content' => 'a:2:{s:7:"adv_pic";s:21:"04964060432258357.jpg";s:11:"adv_pic_url";s:19:"http://mall.wrtx.cn";}',
+      'adv_content' => 'a:2:{s:7:"adv_pic";s:21:"04964060432258357.jpg";s:11:"adv_pic_url";s:19:"http://localhost/shopping";}',
       'adv_start_date' => '1433347200',
       'adv_end_date' => '1624982400',
       'slide_sort' => '0',

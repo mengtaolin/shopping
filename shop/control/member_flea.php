@@ -1,7 +1,7 @@
 <?php
 /**
  * 我的闲置
- * by mall.wrtx.cn
+ * by localhost/shopping
  */
 defined('InWrzcNet') or exit('Access Invalid!');
 class member_fleaControl extends BaseMemberControl{

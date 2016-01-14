@@ -4,7 +4,7 @@
  *
  * 模型类
  *
- * @package    core* mall.wrtx.cn 专业团队 提供售后服务
+ * @package    core* localhost/shopping 专业团队 提供售后服务
  */
 class Model{
 

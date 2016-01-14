@@ -1,4 +1,4 @@
-// by mall.wrtx.cn 调出图片
+// by localhost/shopping 调出图片
 	var seller_list = new Array();//商家客服
 	var msg_limits = new Array();//消息权限
 	var store_msg_list = new Array();//商家收到消息
