@@ -1,5 +1,5 @@
-var SiteUrl = "http://"+window.location.host;//"http://mall.wrtx.cn";
-var ApiUrl =  "http://"+window.location.host+"/mobile";//"http://mall.wrtx.cn/mobile";
+var SiteUrl = "http://"+window.location.host;//"http://localhost/shopping";
+var ApiUrl =  "http://"+window.location.host+"/mobile";//"http://localhost/shopping/mobile";
 var pagesize = 10;
-var WapSiteUrl ="http://"+window.location.host+"/wap";//"http://mall.wrtx.cn/wap";
+var WapSiteUrl ="http://"+window.location.host+"/wap";//"http://localhost/shopping/wap";
 var AndroidSiteUrl = "http://"+window.location.host+"/app.apk";

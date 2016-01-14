@@ -1,4 +1,4 @@
 <?php
-header("Location: http://b2b2c.wrtx.cn/admin");
-exit();
+// header("Location: http://www.baidu.com");
+// exit();
 ?>

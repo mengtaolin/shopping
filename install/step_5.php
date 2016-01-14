@@ -40,15 +40,9 @@
         <h5><a href="<?php echo substr($auto_site_url,0,-8);?>/microshop" target="_blank">微商城</a></h5>
         <h6>随心看、个人秀、店铺街</h6>
       </li>
-      <li class="admin">
-        <div class="ico"></div>
-        <h5><a href="<?php echo substr($auto_site_url,0,-8);?>/admin" target="_blank">系统管理</a></h5>
-        <h6>电商系统后台</h6>
-      </li>
     </ul>
   </div>
   <div class="final-intro">
-    <p><strong>系统管理默认地址:&nbsp;</strong><a href="<?php echo substr($auto_site_url,0,-8);?>/admin" target="_blank"><?php echo substr($auto_site_url,0,-8);?>/admin</a></p>
     <p><strong>网站首页默认地址:&nbsp;</strong><a href="<?php echo substr($auto_site_url,0,-8);?>" target="_blank"><?php echo substr($auto_site_url,0,-8);?></a></p>
      <p><strong>商家中心默认地址:&nbsp;</strong><a href="<?php echo substr($auto_site_url,0,-8);?>/shop/index.php?act=seller_login&op=show_login" target="_blank"><?php echo substr($auto_site_url,0,-8);?>/shop/index.php?act=seller_login&op=show_login</a></p>
         </p>

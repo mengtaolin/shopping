@@ -18,7 +18,7 @@
       'adv_id' => '932',
       'ap_id' => '1044',
       'adv_title' => '闲置首页中部短栏广告2',
-      'adv_content' => 'a:2:{s:7:"adv_pic";s:21:"04964064439712945.jpg";s:11:"adv_pic_url";s:19:"http://mall.wrtx.cn";}',
+      'adv_content' => 'a:2:{s:7:"adv_pic";s:21:"04964064439712945.jpg";s:11:"adv_pic_url";s:19:"http://localhost/shopping";}',
       'adv_start_date' => '1328025600',
       'adv_end_date' => '1622476800',
       'slide_sort' => '0',
