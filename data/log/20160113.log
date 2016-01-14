@@ -1,0 +1,276 @@
+[2016-01-13 14:44:10] /shopping/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_groupbuy' doesn't exist
+SELECT * FROM `shop_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1452667450' ) AND ( end_time > '1452667450' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-13 14:44:10] /shopping/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_link' doesn't exist
+SELECT * FROM `shop_link` as `link`   order by link_id
+[2016-01-13 14:44:10] /shopping/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_p_xianshi_goods' doesn't exist
+SELECT * FROM `shop_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1452667450' ) AND ( end_time > '1452667450' ) ORDER BY xianshi_recommend desc LIMIT 4  
+[2016-01-13 14:44:10] /shopping/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_web' doesn't exist
+SELECT * FROM `shop_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-13 14:44:10] /shopping/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '308' ) LIMIT 1000  
+[2016-01-13 14:44:10] /shopping/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '1' ) LIMIT 1000  
+[2016-01-13 14:44:10] /shopping/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '2' ) LIMIT 1000  
+[2016-01-13 14:44:10] /shopping/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '3' ) LIMIT 1000  
+[2016-01-13 14:44:10] /shopping/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '256' ) LIMIT 1000  
+[2016-01-13 14:44:10] /shopping/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '470' ) LIMIT 1000  
+[2016-01-13 14:44:10] /shopping/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '530' ) LIMIT 1000  
+[2016-01-13 14:44:10] /shopping/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '593' ) LIMIT 1000  
+[2016-01-13 14:44:10] /shopping/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '662' ) LIMIT 1000  
+[2016-01-13 14:44:10] /shopping/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '730' ) LIMIT 1000  
+[2016-01-13 14:44:10] /shopping/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '825' ) LIMIT 1000  
+[2016-01-13 14:44:10] /shopping/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '888' ) LIMIT 1000  
+[2016-01-13 14:44:10] /shopping/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '959' ) LIMIT 1000  
+[2016-01-13 14:44:10] /shopping/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '1037' ) LIMIT 1000  
+[2016-01-13 15:03:45] /shopping/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_groupbuy' doesn't exist
+SELECT * FROM `shop_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1452668625' ) AND ( end_time > '1452668625' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-13 15:03:45] /shopping/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_link' doesn't exist
+SELECT * FROM `shop_link` as `link`   order by link_id
+[2016-01-13 15:03:45] /shopping/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_p_xianshi_goods' doesn't exist
+SELECT * FROM `shop_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1452668625' ) AND ( end_time > '1452668625' ) ORDER BY xianshi_recommend desc LIMIT 4  
+[2016-01-13 15:03:45] /shopping/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_web' doesn't exist
+SELECT * FROM `shop_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-13 15:03:45] /shopping/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '308' ) LIMIT 1000  
+[2016-01-13 15:03:45] /shopping/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '1' ) LIMIT 1000  
+[2016-01-13 15:03:45] /shopping/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '2' ) LIMIT 1000  
+[2016-01-13 15:03:45] /shopping/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '3' ) LIMIT 1000  
+[2016-01-13 15:03:45] /shopping/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '256' ) LIMIT 1000  
+[2016-01-13 15:03:45] /shopping/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '470' ) LIMIT 1000  
+[2016-01-13 15:03:45] /shopping/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '530' ) LIMIT 1000  
+[2016-01-13 15:03:45] /shopping/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '593' ) LIMIT 1000  
+[2016-01-13 15:03:45] /shopping/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '662' ) LIMIT 1000  
+[2016-01-13 15:03:45] /shopping/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '730' ) LIMIT 1000  
+[2016-01-13 15:03:45] /shopping/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '825' ) LIMIT 1000  
+[2016-01-13 15:03:45] /shopping/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '888' ) LIMIT 1000  
+[2016-01-13 15:03:45] /shopping/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '959' ) LIMIT 1000  
+[2016-01-13 15:03:45] /shopping/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '1037' ) LIMIT 1000  
+[2016-01-13 15:04:15] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_groupbuy' doesn't exist
+SELECT * FROM `shop_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1452668655' ) AND ( end_time > '1452668655' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-13 15:04:15] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_link' doesn't exist
+SELECT * FROM `shop_link` as `link`   order by link_id
+[2016-01-13 15:04:15] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_p_xianshi_goods' doesn't exist
+SELECT * FROM `shop_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1452668655' ) AND ( end_time > '1452668655' ) ORDER BY xianshi_recommend desc LIMIT 4  
+[2016-01-13 15:04:15] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_web' doesn't exist
+SELECT * FROM `shop_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-13 15:04:15] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '308' ) LIMIT 1000  
+[2016-01-13 15:04:15] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '1' ) LIMIT 1000  
+[2016-01-13 15:04:15] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '2' ) LIMIT 1000  
+[2016-01-13 15:04:15] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '3' ) LIMIT 1000  
+[2016-01-13 15:04:15] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '256' ) LIMIT 1000  
+[2016-01-13 15:04:15] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '470' ) LIMIT 1000  
+[2016-01-13 15:04:15] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '530' ) LIMIT 1000  
+[2016-01-13 15:04:15] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '593' ) LIMIT 1000  
+[2016-01-13 15:04:15] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '662' ) LIMIT 1000  
+[2016-01-13 15:04:15] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '730' ) LIMIT 1000  
+[2016-01-13 15:04:15] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '825' ) LIMIT 1000  
+[2016-01-13 15:04:15] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '888' ) LIMIT 1000  
+[2016-01-13 15:04:15] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '959' ) LIMIT 1000  
+[2016-01-13 15:04:15] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '1037' ) LIMIT 1000  
+[2016-01-13 15:04:22] /shopping/index.php?XDEBUG_SESSION_STOP_NO_EXEC=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_groupbuy' doesn't exist
+SELECT * FROM `shop_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1452668662' ) AND ( end_time > '1452668662' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-13 15:04:22] /shopping/index.php?XDEBUG_SESSION_STOP_NO_EXEC=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_link' doesn't exist
+SELECT * FROM `shop_link` as `link`   order by link_id
+[2016-01-13 15:04:22] /shopping/index.php?XDEBUG_SESSION_STOP_NO_EXEC=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_p_xianshi_goods' doesn't exist
+SELECT * FROM `shop_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1452668662' ) AND ( end_time > '1452668662' ) ORDER BY xianshi_recommend desc LIMIT 4  
+[2016-01-13 15:04:22] /shopping/index.php?XDEBUG_SESSION_STOP_NO_EXEC=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_web' doesn't exist
+SELECT * FROM `shop_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-13 15:04:22] /shopping/index.php?XDEBUG_SESSION_STOP_NO_EXEC=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '308' ) LIMIT 1000  
+[2016-01-13 15:04:22] /shopping/index.php?XDEBUG_SESSION_STOP_NO_EXEC=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '1' ) LIMIT 1000  
+[2016-01-13 15:04:22] /shopping/index.php?XDEBUG_SESSION_STOP_NO_EXEC=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '2' ) LIMIT 1000  
+[2016-01-13 15:04:22] /shopping/index.php?XDEBUG_SESSION_STOP_NO_EXEC=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '3' ) LIMIT 1000  
+[2016-01-13 15:04:22] /shopping/index.php?XDEBUG_SESSION_STOP_NO_EXEC=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '256' ) LIMIT 1000  
+[2016-01-13 15:04:22] /shopping/index.php?XDEBUG_SESSION_STOP_NO_EXEC=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '470' ) LIMIT 1000  
+[2016-01-13 15:04:22] /shopping/index.php?XDEBUG_SESSION_STOP_NO_EXEC=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '530' ) LIMIT 1000  
+[2016-01-13 15:04:22] /shopping/index.php?XDEBUG_SESSION_STOP_NO_EXEC=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '593' ) LIMIT 1000  
+[2016-01-13 15:04:22] /shopping/index.php?XDEBUG_SESSION_STOP_NO_EXEC=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '662' ) LIMIT 1000  
+[2016-01-13 15:04:22] /shopping/index.php?XDEBUG_SESSION_STOP_NO_EXEC=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '730' ) LIMIT 1000  
+[2016-01-13 15:04:22] /shopping/index.php?XDEBUG_SESSION_STOP_NO_EXEC=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '825' ) LIMIT 1000  
+[2016-01-13 15:04:22] /shopping/index.php?XDEBUG_SESSION_STOP_NO_EXEC=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '888' ) LIMIT 1000  
+[2016-01-13 15:04:22] /shopping/index.php?XDEBUG_SESSION_STOP_NO_EXEC=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '959' ) LIMIT 1000  
+[2016-01-13 15:04:22] /shopping/index.php?XDEBUG_SESSION_STOP_NO_EXEC=ECLIPSE_DBGP&KEY=14526686537874 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '1037' ) LIMIT 1000  
+[2016-01-13 15:07:37] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526688488275 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_groupbuy' doesn't exist
+SELECT * FROM `shop_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1452668857' ) AND ( end_time > '1452668857' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-13 15:07:48] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526688488275 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_link' doesn't exist
+SELECT * FROM `shop_link` as `link`   order by link_id
+[2016-01-13 15:07:48] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526688488275 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_p_xianshi_goods' doesn't exist
+SELECT * FROM `shop_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1452668857' ) AND ( end_time > '1452668857' ) ORDER BY xianshi_recommend desc LIMIT 4  
+[2016-01-13 15:07:48] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526688488275 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_web' doesn't exist
+SELECT * FROM `shop_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-13 15:07:48] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526688488275 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '308' ) LIMIT 1000  
+[2016-01-13 15:07:48] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526688488275 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '1' ) LIMIT 1000  
+[2016-01-13 15:07:48] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526688488275 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '2' ) LIMIT 1000  
+[2016-01-13 15:07:48] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526688488275 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '3' ) LIMIT 1000  
+[2016-01-13 15:07:48] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526688488275 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '256' ) LIMIT 1000  
+[2016-01-13 15:07:48] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526688488275 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '470' ) LIMIT 1000  
+[2016-01-13 15:07:48] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526688488275 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '530' ) LIMIT 1000  
+[2016-01-13 15:07:49] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526688488275 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '593' ) LIMIT 1000  
+[2016-01-13 15:07:49] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526688488275 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '662' ) LIMIT 1000  
+[2016-01-13 15:07:49] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526688488275 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '730' ) LIMIT 1000  
+[2016-01-13 15:07:49] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526688488275 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '825' ) LIMIT 1000  
+[2016-01-13 15:07:49] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526688488275 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '888' ) LIMIT 1000  
+[2016-01-13 15:07:49] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526688488275 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '959' ) LIMIT 1000  
+[2016-01-13 15:07:49] /shopping/index.php?XDEBUG_SESSION_START=ECLIPSE_DBGP&KEY=14526688488275 ( act=index&op=index ) 
+ERR: Db Error: Table 'shopping.shop_brand' doesn't exist
+SELECT * FROM `shop_brand` WHERE ( brand_recommend = '1' ) AND ( class_id = '1037' ) LIMIT 1000  
+[2016-01-13 17:33:02] /shopping/shop/index.php?act=login&op=usersave ( act=login&op=usersave ) 
+ERR: Db Error: Duplicate entry '2' for key 'PRIMARY'
+INSERT  INTO `shop_member_common` (member_id) VALUES ('2')
+[2016-01-13 17:35:13] /shopping/shop/index.php?act=login&op=usersave ( act=login&op=usersave ) 
+ERR: Db Error: Duplicate entry '3' for key 'PRIMARY'
+INSERT  INTO `shop_member_common` (member_id) VALUES ('3')
