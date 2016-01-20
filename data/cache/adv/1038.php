@@ -18,7 +18,7 @@
       'adv_id' => '920',
       'ap_id' => '1038',
       'adv_title' => '闲置横栏广告1',
-      'adv_content' => 'a:2:{s:7:"adv_pic";s:21:"04964067375451751.jpg";s:11:"adv_pic_url";s:19:"http://localhost/shopping";}',
+      'adv_content' => 'a:2:{s:7:"adv_pic";s:21:"04964067375451751.jpg";s:11:"adv_pic_url";s:25:"http://localhost/shopping";}',
       'adv_start_date' => '1325347200',
       'adv_end_date' => '1622476800',
       'slide_sort' => '0',

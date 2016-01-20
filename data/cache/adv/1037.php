@@ -18,7 +18,7 @@
       'adv_id' => '915',
       'ap_id' => '1037',
       'adv_title' => '闲置首页幻灯片1',
-      'adv_content' => 'a:2:{s:13:"adv_slide_pic";s:36:"008a76ccc9449d92b529c2d7dd1ddbb4.png";s:13:"adv_slide_url";s:14:"www.helloworld.com";}',
+      'adv_content' => 'a:2:{s:13:"adv_slide_pic";s:36:"008a76ccc9449d92b529c2d7dd1ddbb4.png";s:13:"adv_slide_url";s:25:"http://localhost/shopping";}',
       'adv_start_date' => '1325347200',
       'adv_end_date' => '1622476800',
       'slide_sort' => '1',
